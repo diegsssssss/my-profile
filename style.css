@@ -1,0 +1,45 @@
+body {
+	background: rgb(243, 196, 207);
+	color: rgb(30, 30, 30);
+	font-family: garamond;
+	font-size: 22px;
+}
+
+h1, h2, h3 {
+	
+	font-family: speakeasy;
+}
+h1 {
+	color: rgb(34, 66, 124);
+	font-size: 32px;
+}
+h2 {
+	color: rgb(119, 181, 254);
+	font-size: 24px;
+	font-weight: lighter;
+}
+a:hover {
+	text text-decoration: unset;
+	color: rgb(104, 111, 140);
+	font-weight: bold;
+}
+
+div{
+	background: rgb(243, 196, 207);
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0,1);
+}
+
+.card-white {
+	background-color: rgb(220, 220, 220);
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 30%;
+}
